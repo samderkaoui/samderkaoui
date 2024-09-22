@@ -25,6 +25,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaiser016X&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 

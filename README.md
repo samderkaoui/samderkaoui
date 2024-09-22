@@ -43,7 +43,7 @@ Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevO
 
 # 📊 Statistiques GitHub
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kaiser016X&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📫 Comment me contacter
 

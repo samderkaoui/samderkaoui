@@ -14,7 +14,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-
+![Traefik Proxy Badge](https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=flat)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaiser016X&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 

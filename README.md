@@ -43,7 +43,7 @@ Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevO
 
 # 📊 Statistiques GitHub
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
 
 # 📫 Comment me contacter
 

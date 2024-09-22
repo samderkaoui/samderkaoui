@@ -43,7 +43,7 @@ Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevO
 
 # 📊 Statistiques GitHub
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaiser016X&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
 
 # 📫 Comment me contacter
 

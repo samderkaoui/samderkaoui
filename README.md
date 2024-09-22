@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub! 👋
 
-Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevOps et le cloud computing. Mon expertise couvre un large éventail d'outils et de technologies, me permettant de mettre en place des solutions robustes et évolutives. Egalement formateur à mes heures perdues :)
+Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevOps et le cloud computing. Mon expertise couvre un large éventail d'outils et de technologies, me permettant de mettre en place des solutions robustes et évolutives. Egalement formateur à mes heures perdues :blush:
 
 # 🛠 Technologies et Outils que j'utilise souvent
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)

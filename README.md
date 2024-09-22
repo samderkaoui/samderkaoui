@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub! 👋
 
-Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevOps et le cloud computing. Mon expertise couvre un large éventail d'outils et de technologies, me permettant de créer des solutions robustes et évolutives.
+Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevOps et le cloud computing. Mon expertise couvre un large éventail d'outils et de technologies, me permettant de mettre en place des solutions robustes et évolutives. Egalement formateur à mes heures perdues :)
 
 # 🛠 Technologies et Outils que j'utilise souvent
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,5 +52,3 @@ Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevO
 N'hésitez pas à me contacter pour discuter de projets passionnants ou pour toute collaboration !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
-
-💡 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans le domaine du DevOps et de l'infrastructure cloud. N'hésitez pas à explorer mes projets et à me contacter pour toute discussion ou collaboration !

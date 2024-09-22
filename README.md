@@ -2,7 +2,7 @@
 
 Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevOps et le cloud computing. Mon expertise couvre un large éventail d'outils et de technologies, me permettant de créer des solutions robustes et évolutives.
 
-## 🛠 Technologies et Outils
+# 🛠 Technologies et Outils que j'utilise souvent
 
 ### Systèmes d'exploitation
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](none)

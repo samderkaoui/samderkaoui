@@ -43,13 +43,12 @@ Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevO
 
 # 📊 Statistiques GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
+
 
 # 📫 Comment me contacter
 
 N'hésitez pas à me contacter pour discuter de projets passionnants ou pour toute collaboration !
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
 
 💡 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et grandir dans le domaine du DevOps et de l'infrastructure cloud. N'hésitez pas à explorer mes projets et à me contacter pour toute discussion ou collaboration !

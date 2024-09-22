@@ -16,6 +16,7 @@
 
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaiser016X&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub stars](https://badgen.net/github/stars/Kaiser016X/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 <!--
 **Kaiser016X/Kaiser016X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

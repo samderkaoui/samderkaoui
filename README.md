@@ -3,7 +3,7 @@
 Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevOps et le cloud computing. Mon expertise couvre un large éventail d'outils et de technologies, me permettant de mettre en place des solutions robustes et évolutives. Egalement formateur à mes heures perdues :blush:
 
 
-J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts publiquement sur mon dépôt.
+J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts sur mon dépôt.
 
 # 🛠 Technologies et Outils que j'utilise souvent
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)

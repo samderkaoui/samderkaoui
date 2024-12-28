@@ -21,7 +21,7 @@ J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts su
 ![Keycloak](https://img.shields.io/badge/Keycloak-00B1E7?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ##### Infrastructure & Virtualisation
-![Packet](https://img.shields.io/badge/Packet-0061FE?style=for-the-badge)
+![Packer]([https://img.shields.io/badge/Packet-0061FE?style=for-the-badge](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 

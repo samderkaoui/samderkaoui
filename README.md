@@ -66,6 +66,7 @@ J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts su
 ##### Intelligence Artificielle
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FF1B2D?style=for-the-badge&logo=ollama&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 # 📊 Statistiques GitHub
 

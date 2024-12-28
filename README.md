@@ -63,6 +63,10 @@ J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts su
 ##### Qualité de Code
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
+##### Intelligence Artificielle
+![Claude AI](https://img.shields.io/badge/Claude%20AI-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FF1B2D?style=for-the-badge&logo=ollama&logoColor=white)
+
 # 📊 Statistiques GitHub
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samderkaoui&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)

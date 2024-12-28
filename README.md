@@ -39,6 +39,10 @@ J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts su
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://camo.githubusercontent.com/d39f98e5f22de18187cdd6600398884869c8beb344b8b78ab34a685721cf8b1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676974687562253230616374696f6e732d2532333236373145352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562616374696f6e73266c6f676f436f6c6f723d7768697465)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![circleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
+
+
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 

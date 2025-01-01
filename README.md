@@ -67,6 +67,12 @@ J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts su
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FF1B2D?style=for-the-badge&logo=ollama&logoColor=white)
 
+##### Certifications
+
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 # 📊 Statistiques GitHub
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samderkaoui&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)

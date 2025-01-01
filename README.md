@@ -49,7 +49,7 @@ J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts su
 
 ##### Éditeurs de Code
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-00A0E4?style=for-the-badge)
+![WindSurf AI](https://img.shields.io/badge/WindSurf_AI-2D2D2D?style=for-the-badge)
 
 ##### Contrôle de Version & CI/CD
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

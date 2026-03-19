@@ -1,86 +1,150 @@
-# Bienvenue sur mon profil GitHub! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3c,100:2563eb&height=220&section=header&text=Samir%20DERKAOUI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Site%20Reliability%20Engineer&descAlignY=58&descSize=20&descColor=93c5fd&animation=fadeIn" />
+</p>
 
-👨‍💻 Après plusieurs années en tant que consultant DevOps, j'ai rejoint le monde du Site Reliability Engineering (SRE), consolidant mon expertise autour de la fiabilité, de la scalabilité et de l'automatisation d'infrastructures cloud.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Cloud+Native+%7C+IaC+%7C+Zero+Trust+Networking;SRE+%40+Cloud+Temple+%E2%80%94+SecNumCloud+Sovereign+Cloud;Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Observability;Building+secure%2C+automated+%26+resilient+infra" alt="Typing SVG" />
+  </a>
+</p>
 
-☁️ Mon parcours couvre le déploiement, l'orchestration et le maintien en condition opérationnelle de plateformes on-premise & cloud-native dans des environnements exigeants — notamment le secteur de la défense et le cloud souverain (SecNumCloud).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samderkaoui&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/samir-derkaoui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Tours%2C%20France-🇫🇷-1d4ed8?style=for-the-badge" />
+</p>
 
-🤝 La dimension conseil de mes années freelance m'a également forgé une vraie culture de la relation client et de la conduite du changement, que j'applique aujourd'hui.
+---
 
-# 🛠 Technologies et Outils que j'utilise souvent
+## 🧑‍💻 À propos
 
-##### Conteneurisation & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+```yaml
+name:     Samir DERKAOUI
+role:     Senior SRE @ Cloud Temple (SecNumCloud)
+location: Tours, France 🇫🇷
+focus:
+  - Infrastructure cloud-native & souveraine
+  - Automatisation IaC (Packer → Terraform → Ansible)
+  - Observabilité & fiabilité (Prometheus / Grafana / Mimir)
+  - Zero Trust Networking (Netbird / WireGuard)
+background:
+  - Consultant DevOps freelance (secteurs défense & entreprise)
+  - Transition vers le SRE avec ancrage fort sur la culture SLO/SLA
+certifications:
+  - CKA — Certified Kubernetes Administrator
+  - AWS Solutions Architect Associate
+  - HashiCorp Terraform Associate
+goal:     Lead SRE — technique + transversal
+```
 
-##### Systèmes d'exploitation & Sécurité
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-EE0000?style=for-the-badge&logo=almalinux&logoColor=white)
-![BIND9](https://img.shields.io/badge/BIND9-00599C?style=for-the-badge)
-![IPTables](https://img.shields.io/badge/IPTables-FF9900?style=for-the-badge)
+---
 
-##### Sécurité & IAM
-![Wazuh](https://img.shields.io/badge/Wazuh-2C39BD?style=for-the-badge&logo=wazuh&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-00B1E7?style=for-the-badge&logo=keycloak&logoColor=white)
+## 🔭 En ce moment
 
-##### Infrastructure & Virtualisation
-![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+> Ce que je construis dans mon home lab & en production
 
-##### Automatisation
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Semaphore](https://img.shields.io/badge/Semaphore-19A974?style=for-the-badge&logo=semaphore&logoColor=white)
-![AWX](https://img.shields.io/badge/AWX-EE0000?style=for-the-badge)
-![Rundeck](https://img.shields.io/badge/Rundeck-F9BE03?style=for-the-badge)
+| 🏗️ Projet | 📋 Description | 🔖 Status |
+|---|---|---|
+| **LAB_KVM** | Debian 12 + KVM/libvirt · 3 VMs · Pipeline Packer→TF→Ansible | `🟢 actif` |
+| **k3s cluster** | HA k3s avec ArgoCD apps-of-apps + GitLab CI | `🟢 actif` |
+| **Zero Trust overlay** | Netbird (WireGuard mesh) entre home lab & Cloud Temple | `🟡 en cours` |
+| **Secrets & SSO** | Vault + Keycloak — roadmap IAM complète | `🔵 roadmap` |
+| **Cyber skills** | TryHackMe + Root-Me · objectif CompTIA Security+ | `🟡 en cours` |
 
-##### Cloud & Monitoring
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Mimir](https://img.shields.io/badge/Mimir-464646?style=for-the-badge)
-![Fluent Bit](https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white)
+---
 
-##### Virtualisation
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+## 🛠️ Stack technique
 
-##### Serveurs Web & Proxy
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-00B837?style=for-the-badge&logo=haproxy&logoColor=white)
+<p align="center">
+  <strong>Orchestration & Conteneurs</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark" />
+</p>
 
-##### Éditeurs de Code
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WindSurf AI](https://img.shields.io/badge/WindSurf_AI-2D2D2D?style=for-the-badge)
+<p align="center">
+  <strong>IaC & Automatisation</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+</p>
 
-##### Contrôle de Version & CI/CD
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<p align="center">
+  <strong>CI/CD & Versioning</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=gitlab,github,githubactions&theme=dark" />
+</p>
 
-##### Qualité de Code
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+<p align="center">
+  <strong>Cloud & Infra</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,linux,debian&theme=dark" />
+</p>
 
-##### Intelligence Artificielle
-![Claude AI](https://img.shields.io/badge/Claude%20AI-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FF1B2D?style=for-the-badge&logo=ollama&logoColor=white)
+<p align="center">
+  <strong>Observabilité</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+</p>
 
-##### Certifications
+<p align="center">
+  <strong>Réseau & Sécurité</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
+  <!-- Netbird / WireGuard / Traefik / HAProxy / Wazuh / Keycloak / Vault via shields -->
+</p>
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Netbird-1a1f3c?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/HAProxy-00B837?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keycloak-00B1E7?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFD814?style=for-the-badge&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wazuh-2C3BD4?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white" />
+</p>
 
-# 📊 Statistiques GitHub
+<p align="center">
+  <strong>Éditeurs & IA</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Claude%20AI-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-2D2D2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-FF1B2D?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samderkaoui&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-# 📫 Comment me contacter
+## 🏅 Certifications
 
-N'hésitez pas à me contacter pour discuter de projets passionnants ou pour toute collaboration !
+<p align="center">
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-derkaoui/)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samderkaoui&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samderkaoui&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=e2e8f0&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samderkaoui&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2563eb&fire=60a5fa&currStreakLabel=60a5fa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samderkaoui&theme=github-compact&bg_color=0d1117&color=60a5fa&line=2563eb&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  N'hésitez pas à me contacter pour échanger sur des sujets SRE, cloud souverain, IaC ou Zero Trust.<br/><br/>
+  <a href="https://www.linkedin.com/in/samir-derkaoui/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samir%20DERKAOUI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1a1f3c,100:0d1117&height=120&section=footer&animation=fadeIn" />
+</p>

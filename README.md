@@ -22,16 +22,15 @@
 
 ```yaml
 name:     Samir DERKAOUI
-role:     Senior SRE @ Cloud Temple (SecNumCloud)
+role:     Site Reliability Engineer (SRE) @ Cloud Temple (SecNumCloud)
 location: Tours, France 🇫🇷
 focus:
   - Infrastructure cloud-native & souveraine
   - Automatisation IaC (Packer → Terraform → Ansible)
   - Observabilité & fiabilité (Prometheus / Grafana / Mimir)
-  - Zero Trust Networking (Netbird / WireGuard)
 background:
   - Consultant DevOps freelance (secteurs défense & entreprise)
-  - Transition vers le SRE avec ancrage fort sur la culture SLO/SLA
+  - Transition vers le SRE et cloud souverain
 certifications:
   - CKA — Certified Kubernetes Administrator
   - AWS Solutions Architect Associate

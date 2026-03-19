@@ -80,7 +80,6 @@ goal:     Lead SRE — technique + transversal
 <p align="center">
   <strong>Réseau & Sécurité</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
-  <!-- Netbird / WireGuard / Traefik / HAProxy / Wazuh / Keycloak / Vault via shields -->
 </p>
 
 

@@ -24,13 +24,14 @@
 name:     Samir DERKAOUI
 role:     Site Reliability Engineer (SRE) @ Cloud Temple (SecNumCloud)
 location: Tours, France 🇫🇷
-focus:
-  - Infrastructure cloud-native & souveraine
-  - Automatisation IaC (Packer → Terraform → Ansible)
-  - Observabilité & fiabilité (Prometheus / Grafana / Mimir / Loki)
+
+
+
 background:
   - Consultant DevOps freelance (secteurs défense & entreprise)
   - Transition vers SRE et cloud souverain
+
+
 
 stack:
   conteneurisation:

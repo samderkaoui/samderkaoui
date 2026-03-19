@@ -1,9 +1,11 @@
 # Bienvenue sur mon profil GitHub! 👋
 
-Je suis un passionné de technologie spécialisé dans l'infrastructure, le DevOps et le cloud computing. Mon expertise couvre un large éventail d'outils et de technologies, me permettant de mettre en place des solutions robustes et évolutives. Egalement formateur à mes heures perdues :blush:
+👨‍💻 Après plusieurs années en tant que consultant DevOps, j'ai rejoint le monde du Site Reliability Engineering (SRE), consolidant mon expertise autour de la fiabilité, de la scalabilité et de l'automatisation d'infrastructures cloud.
 
+☁️ Mon parcours couvre le déploiement, l'orchestration et le maintien en condition opérationnelle de plateformes on-premise & cloud-native dans des environnements exigeants — notamment le secteur de la défense et le cloud souverain (SecNumCloud).
 
-J'adore le partage, et j'en profite pour partager quelques-uns de mes scripts sur mon dépôt.
+🤝 La dimension conseil de mes années freelance m'a également forgé une vraie culture de la relation client et de la conduite du changement, que j'applique aujourd'hui.
+
 # 🛠 Technologies et Outils que j'utilise souvent
 
 ##### Conteneurisation & Orchestration

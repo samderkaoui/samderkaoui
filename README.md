@@ -93,7 +93,7 @@ goal: Lead SRE — technique + transversal
 
 ## 🔭 En ce moment
 
-> Ce que je construis dans mon home lab & en production
+> Projets Perso En Cours :
 
 | 🏗️ Projet | 📋 Description | 🔖 Status |
 |---|---|---|

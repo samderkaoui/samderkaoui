@@ -26,14 +26,66 @@ role:     Site Reliability Engineer (SRE) @ Cloud Temple (SecNumCloud)
 location: Tours, France 🇫🇷
 focus:
   - Infrastructure cloud-native & souveraine
-  - Automatisation IaC (Packer → Vagrant → Terraform → Ansible)
+  - Automatisation IaC (Packer → Terraform → Ansible)
   - Observabilité & fiabilité (Prometheus / Grafana / Mimir / Loki)
 background:
   - Consultant DevOps freelance (secteurs défense & entreprise)
   - Transition vers SRE et cloud souverain
-Stack Technique:
 
-goal:     Lead SRE — technique + transversal
+stack:
+  conteneurisation:
+    - Docker
+    - Kubernetes
+    - Helm
+
+  iac:
+    - Ansible
+    - Terraform
+    - Packer
+    - Vagrant
+    - ArgoCD
+
+  cicd:
+    - GitLab CI
+    - GitHub Actions
+    - Jenkins
+
+  cloud_virtualisation:
+    - AWS
+    - GCP
+    - vSphere
+
+  observabilite:
+    - OpenTelemetry
+    - Prometheus
+    - Grafana
+    - Mimir
+    - Loki
+
+  service_discovery:
+    - Consul
+
+  automatisation:
+    - Ansible
+    - Ansible Automation Platform / AWX
+    - Semaphore
+
+  langages:
+    - Shell
+    - Python
+
+  qualite_artefacts:
+    - SonarQube
+    - Nexus Sonatype
+
+  securite:
+    - Wazuh
+    - Hardening scripts
+
+  ia:
+    - n8n
+
+goal: Lead SRE — technique + transversal
 ```
 
 ---

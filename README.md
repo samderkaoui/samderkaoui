@@ -128,7 +128,7 @@ goal: Lead SRE — technique + transversal
 ## 📫 Contact
 
 <p align="center">
-  N'hésitez pas à me contacter pour échanger sur des sujets SRE, cloud souverain, IaC ou Zero Trust.<br/><br/>
+  N'hésitez pas à me contacter pour échanger sur des sujets SRE, cloud souverain, IaC.<br/><br/>
   <a href="https://www.linkedin.com/in/samir-derkaoui/">
     <img src="https://img.shields.io/badge/LinkedIn-Samir%20DERKAOUI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

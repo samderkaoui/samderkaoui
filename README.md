@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Cloud+Native+%7C+IaC+%7C+Zero+Trust+Networking;SRE+%40+Cloud+Temple+%E2%80%94+SecNumCloud+Sovereign+Cloud;Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Observability;Building+secure%2C+automated+%26+resilient+infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Cloud+%7C+IaC+%7C+DevOps;SRE+%40+Cloud+Temple+%E2%80%94+SecNumCloud+Sovereign+Cloud;Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Observability;Building+secure%2C+automated+%26+resilient+infra" alt="Typing SVG" />
   </a>
 </p>
 

@@ -26,14 +26,14 @@ role:     Site Reliability Engineer (SRE) @ Cloud Temple (SecNumCloud)
 location: Tours, France 🇫🇷
 focus:
   - Infrastructure cloud-native & souveraine
-  - Automatisation IaC (Packer → Terraform → Ansible)
-  - Observabilité & fiabilité (Prometheus / Grafana / Mimir)
+  - Automatisation IaC (Packer → Vagrant → Terraform → Ansible)
+  - Observabilité & fiabilité (Prometheus / Grafana / Mimir / Loki)
 background:
   - Consultant DevOps freelance (secteurs défense & entreprise)
-  - Transition vers le SRE et cloud souverain
+  - Transition vers SRE et cloud souverain
 certifications:
   - CKA — Certified Kubernetes Administrator
-  - AWS Solutions Architect Associate
+  - AWS Solutions Architect Associate / Cloud Practitioner
   - HashiCorp Terraform Associate
 goal:     Lead SRE — technique + transversal
 ```
@@ -46,11 +46,7 @@ goal:     Lead SRE — technique + transversal
 
 | 🏗️ Projet | 📋 Description | 🔖 Status |
 |---|---|---|
-| **LAB_KVM** | Debian 12 + KVM/libvirt · 3 VMs · Pipeline Packer→TF→Ansible | `🟢 actif` |
-| **k3s cluster** | HA k3s avec ArgoCD apps-of-apps + GitLab CI | `🟢 actif` |
-| **Zero Trust overlay** | Netbird (WireGuard mesh) entre home lab & Cloud Temple | `🟡 en cours` |
-| **Secrets & SSO** | Vault + Keycloak — roadmap IAM complète | `🔵 roadmap` |
-| **Cyber skills** | TryHackMe + Root-Me · objectif CompTIA Security+ | `🟡 en cours` |
+| **LAB_KVM** | Debian 13 + KVM/libvirt pour la virtualisation· 4 VMs · IAC / Best practice / Cluster k8s / CI-CD / Hashicorp Vault / Helm | `🟢 actif` |
 
 ---
 

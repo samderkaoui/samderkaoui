@@ -89,7 +89,7 @@ goal:     Lead SRE — technique + transversal
 
 <p align="center">
   <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,debian&theme=dark" />
   <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 

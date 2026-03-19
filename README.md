@@ -31,10 +31,8 @@ focus:
 background:
   - Consultant DevOps freelance (secteurs défense & entreprise)
   - Transition vers SRE et cloud souverain
-certifications:
-  - CKA — Certified Kubernetes Administrator
-  - AWS Solutions Architect Associate / Cloud Practitioner
-  - HashiCorp Terraform Associate
+Stack Technique:
+
 goal:     Lead SRE — technique + transversal
 ```
 
@@ -47,41 +45,6 @@ goal:     Lead SRE — technique + transversal
 | 🏗️ Projet | 📋 Description | 🔖 Status |
 |---|---|---|
 | **LAB_KVM** | Debian 13 + KVM/libvirt pour la virtualisation· 4 VMs · IAC / Best practice / Cluster k8s / CI-CD / Hashicorp Vault / Helm | `🟢 actif` |
-
----
-
-## 🛠️ Stack technique
-
-<p align="center">
-  <strong>Orchestration & Conteneurs</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>IaC & Automatisation</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>CI/CD & Versioning</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=gitlab,github,githubactions&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Cloud & Infra</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,linux,debian&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Observabilité</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Réseau & Sécurité</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
-</p>
-
 
 ---
 

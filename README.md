@@ -88,9 +88,7 @@ goal:     Lead SRE — technique + transversal
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=aws,linux,debian&theme=dark" />
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform&theme=dark" />
 </p>
 
 ---

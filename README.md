@@ -83,24 +83,6 @@ goal:     Lead SRE — technique + transversal
   <!-- Netbird / WireGuard / Traefik / HAProxy / Wazuh / Keycloak / Vault via shields -->
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Netbird-1a1f3c?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HAProxy-00B837?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keycloak-00B1E7?style=for-the-badge&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-FFD814?style=for-the-badge&logo=vault&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wazuh-2C3BD4?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Éditeurs & IA</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Claude%20AI-6B48FF?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windsurf-2D2D2D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-FF1B2D?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
 
 ---
 
